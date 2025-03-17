@@ -30,7 +30,13 @@ h1{
     width: 100%;
     background: rgb(253, 6, 104);
     color: white;
-    border: none;
+    border: rgb(253, 6, 104);
     cursor: pointer;
     align-items: center;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
 }
